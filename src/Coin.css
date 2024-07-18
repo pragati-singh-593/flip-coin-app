@@ -1,0 +1,22 @@
+/* src/Coin.css */
+.coin {
+    font-size: 100px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    border: 2px solid #000;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+  }
+  
+  .heads {
+    background-color: gold;
+  }
+  
+  .tails {
+    background-color: silver;
+  }
+  
